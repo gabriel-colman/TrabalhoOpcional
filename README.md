@@ -6,7 +6,9 @@ ordenação, implementados para que ordenem palavras.
 * Insertion Sort
 * Merge Sort 
 * Quick Sort 
+
 Os algoritmos se encontram nos seguintes diretórios:
+
 1. Selection Sort: TrabalhoOpcional/atividadeDoTrabalho/ProjetoTeste/src/algordenacao1/BubleSort.java
 2. Selection Sort: TrabalhoOpcional/atividadeDoTrabalho/ProjetoTeste/src/algordenacao1/InsertionSort.java
 3. Selection Sort: TrabalhoOpcional/atividadeDoTrabalho/ProjetoTeste/src/algordenacao1/MergeSort.java
